@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Guys! 👋 
+- Ansuman here. I am currently learning Java & DSA as well as exploring different DevOps tools.
+- I am here to learn about different technologies and I aim to achieve that by contributing to different projects here.
 
 <!--
 **ansuman-satapathy/ansuman-satapathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
