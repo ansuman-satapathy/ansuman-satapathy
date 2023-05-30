@@ -1,5 +1,6 @@
 ### Hello Guys! 👋 
-- Ansuman here. I am currently learning Java & DSA as well as exploring different DevOps tools.
+- Ansuman here. I am currently learning Java & DSA and also exploring different DevOps & Cloud Native tools.
+- I am really passionate about DevOps and opensource.
 - I am here to learn about different technologies and I aim to achieve that by contributing to different projects here.
 
 <!--
