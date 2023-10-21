@@ -1,6 +1,6 @@
 ### Hello Guys! 👋 
 - 🌱 Ansuman here. Although I have interest in backend developement, I feel DevOps is something I really enjoy.
-- 🔭 I hope to combine these two and create something valuable for tech the community.
+- 🔭 I hope to combine these two and create something valuable for the tech community.
 - ⚡ I am here to learn about different technologies and I aim to achieve that by contributing to different projects.
 - 💬 Let's connect and work together.
 
