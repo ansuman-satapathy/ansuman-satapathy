@@ -1,7 +1,9 @@
 ### Hello Guys! 👋 
-- Ansuman here. I am currently learning Java & DSA and also exploring different DevOps & Cloud Native tools.
-- I am really passionate about DevOps and opensource.
-- I am here to learn about different technologies and I aim to achieve that by contributing to different projects here.
+- 🌱 Ansuman here. Although I have interest in backend developement, I feel DevOps is something I really enjoy.
+- 🔭 I hope to combine these two and create something valuable for tech the community.
+- ⚡ I am here to learn about different technologies and I aim to achieve that by contributing to different projects.
+- 💬 Let's connect and work together.
+
 
 <!--
 **ansuman-satapathy/ansuman-satapathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
