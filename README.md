@@ -18,7 +18,7 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 - Ask me anything **satapathyansuman12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/ansumantwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansumantwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansuman-satapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansuman-satapathy" height="30" width="40" /></a>
