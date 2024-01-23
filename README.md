@@ -16,9 +16,7 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 - Read my blogs here [https://ansumannn.hashnode.dev/](https://ansumannn.hashnode.dev/)
 
-- Ask me about **Java, Spring Boot, Linux, Docker.**
-
-- Contact me directly **satapathyansuman12@gmail.com**
+- Ask me anything **satapathyansuman12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
