@@ -38,7 +38,5 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 -->
 
-<br>
-<br>
 <br><h3 align="left"></h3>
 <p><a href="https://www.buymeacoffee.com/ansumannn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ansumannn" /></a></p><br><br>
