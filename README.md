@@ -16,6 +16,7 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Linux](https://ansumannn.hashnode.dev/basics-of-linux)
 <!-- BLOG-POST-LIST:END -->
 
 
