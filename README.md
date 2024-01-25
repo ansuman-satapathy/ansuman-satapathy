@@ -16,7 +16,7 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networking&lpar;Part-2&rpar;](https://ansumannn.hashnode.dev/computer-networkingpart-2)
+- [Computer Networks &lpar;Part-2&rpar;](https://ansumannn.hashnode.dev/computer-networkingpart-2)
 - [Computer Networks Basics &amp; Overview](https://ansumannn.hashnode.dev/computer-networks-basics-overview)
 <!-- BLOG-POST-LIST:END -->
 
