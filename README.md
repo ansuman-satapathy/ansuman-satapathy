@@ -10,9 +10,11 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 - I’m currently learning **Devops.**
 
+- Ask me anything **satapathyansuman12@gmail.com**
+
 - Read my blogs here [https://ansumannn.hashnode.dev/](https://ansumannn.hashnode.dev/)
 
-- Ask me anything **satapathyansuman12@gmail.com**
+
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
