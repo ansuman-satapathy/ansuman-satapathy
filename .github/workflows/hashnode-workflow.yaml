@@ -15,4 +15,5 @@ jobs:
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://ansumannn.hashnode.dev/rss.xml"
+         github-token: ${{ secrets.GITHUB_TOKEN }}
 
