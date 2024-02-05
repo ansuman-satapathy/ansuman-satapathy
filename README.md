@@ -16,6 +16,7 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Mastering The Linux Command Line/Terminal](https://ansumannn.hashnode.dev/mastering-the-linux-command-lineterminal)
 - [Going Easy Mode With Linux](https://ansumannn.hashnode.dev/going-easy-mode-with-linux-part-1)
 - [Networking Commands In  5 Minutes](https://ansumannn.hashnode.dev/networking-commands-in-5-minutes)
 - [Computer Networks &lpar;Part-2&rpar;](https://ansumannn.hashnode.dev/computer-networkingpart-2)
