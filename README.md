@@ -16,11 +16,11 @@ I am a Java Backend developer. I also have interest in DevOps. Let's connect and
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to DevOps: A Simplified Guide](https://ansumannn.hashnode.dev/introduction-to-devops-a-simplified-guide)
 - [What is DevOps &amp; Why is it Important for SDLC?](https://ansumannn.hashnode.dev/what-is-devops-why-is-it-important-for-sdlc)
 - [Introduction to Git &amp; Github](https://ansumannn.hashnode.dev/introduction-to-git-github)
 - [Mastering The Linux Command Line/Terminal](https://ansumannn.hashnode.dev/mastering-the-linux-command-lineterminal)
 - [Going Easy Mode With Linux](https://ansumannn.hashnode.dev/going-easy-mode-with-linux-part-1)
-- [Networking Commands In  5 Minutes](https://ansumannn.hashnode.dev/networking-commands-in-5-minutes)
 <!-- BLOG-POST-LIST:END -->
 
 
