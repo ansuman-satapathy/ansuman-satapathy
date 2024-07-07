@@ -1,5 +1,4 @@
-![profile.png](https://github.com/ansuman-satapathy/ansuman-satapathy/blob/main/assets/profile.png)
-
+### Hello everyone!
 
 <p align="left"> <a href="https://twitter.com/ansumantwts" target="blank"><img src="https://img.shields.io/twitter/follow/ansumantwts?logo=twitter&style=for-the-badge" alt="ansumantwts" /></a> </p>
 
