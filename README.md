@@ -1,6 +1,6 @@
 ### Hello everyone! I am Ansuman.
 <p align="left">
-Currently I am documenting my DevOps journey through articles. Learning Docker, Kubernetes, AWS, Terraform, & Ansible. Passionate about improving software delivery and reliability.
+Currently I am learning Devops and documenting my journey through blog posts & articles on Hashnode and Dev.to. Passionate about improving software delivery and reliability.
 
 <p align="left"> <a href="https://twitter.com/ansumantwts" target="blank"><img src="https://img.shields.io/twitter/follow/ansumantwts?logo=twitter&style=for-the-badge" alt="ansumantwts" /></a> </p>
 
