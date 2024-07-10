@@ -9,11 +9,11 @@ Currently I am learning Devops and documenting my journey through blog posts & a
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [AWS EC2: Creating, Connecting and Managing Your Instances](https://ansumannn.hashnode.dev/aws-ec2-creating-connecting-and-managing-your-instances)
 - [Introduction to Cloud Computing &amp; AWS Cloud Services](https://ansumannn.hashnode.dev/introduction-to-cloud-computing-aws-cloud-services)
 - [Introduction to DevOps: A Simplified Guide](https://ansumannn.hashnode.dev/introduction-to-devops-a-simplified-guide)
 - [What is DevOps &amp; Why is it Important for SDLC?](https://ansumannn.hashnode.dev/what-is-devops-why-is-it-important-for-sdlc)
 - [Introduction to Git &amp; Github](https://ansumannn.hashnode.dev/introduction-to-git-github)
-- [Mastering The Linux Command Line/Terminal](https://ansumannn.hashnode.dev/mastering-the-linux-command-lineterminal)
 <!-- BLOG-POST-LIST:END -->
 
 
