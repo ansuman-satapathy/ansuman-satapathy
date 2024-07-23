@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=Technical+Writer+✍️;∞+DevOps+Enthusiast+∞"alt="Currently Learning DevOps">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=Technical+Writer+✍️;DevOps+Enthusiast+👨‍💻"alt="Currently Learning DevOps">
 </p>
 
 ## Hello Everyone! I am Ansuman.
 <p align="left">
 <ul>
   <li>
-    I am a backend developer diving into DevOps & learning in public. </li>
+    I am a backend developer currently learning DevOps in public. </li>
   <li>
-    Sharing my blogs and articles on Hashnode and Dev.to.
+    I share my blogs and articles on Hashnode and Dev.to.
   </li>
    <li>
     Passionate about improving software delivery and reliability.
