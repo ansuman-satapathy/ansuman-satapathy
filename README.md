@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=Technical+Writer+✍️;DevOps+Enthusiast+👨‍💻"alt="Currently Learning DevOps">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=DevOps+Enthusiast+👨‍💻;Technical+Writer+✍️"alt="Currently Learning DevOps">
 </p>
 
 ## Hello Everyone! I am Ansuman.
