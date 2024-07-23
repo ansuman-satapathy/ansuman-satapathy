@@ -1,9 +1,21 @@
-### Hello everyone! I am Ansuman.
-<p align="left">
-Currently I am learning Devops and documenting my journey through blog posts & articles on Hashnode and Dev.to. Passionate about improving software delivery and reliability.
-</p> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=Technical+Writer+✍️;∞+DevOps+Enthusiast+∞"alt="Currently Learning DevOps">
+</p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+## Hello everyone! I am Ansuman.
+<p align="left">
+<ul>
+  <li>
+    I am a backend developer diving into DevOps & learning in public. </li>
+  <li>
+    Sharing my blogs and articles on Hashnode and Dev.to.
+  </li>
+   <li>
+    Passionate about improving software delivery and reliability.
+  </li>
+  
+</ul> 
+</p> 
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
