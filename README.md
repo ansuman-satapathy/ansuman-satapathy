@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d200ff&size=25&center=true&vCenter=true&lines=Technical+Writer+✍️;∞+DevOps+Enthusiast+∞"alt="Currently Learning DevOps">
 </p>
 
-## Hello everyone! I am Ansuman.
+## Hello! I am Ansuman.
 <p align="left">
 <ul>
   <li>
