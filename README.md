@@ -35,10 +35,10 @@
 
 ### Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Multi-Stage Docker Image to AWS EC2 using Docker Hub](https://ansumannn.hashnode.dev/deploying-a-multi-stage-docker-image-to-aws-ec2-using-docker-hub)
 - [AWS EC2: Creating, Connecting and Managing Your Instances](https://ansumannn.hashnode.dev/aws-ec2-creating-connecting-and-managing-your-instances)
 - [Introduction to Cloud Computing &amp; AWS Cloud Services](https://ansumannn.hashnode.dev/introduction-to-cloud-computing-aws-cloud-services)
 - [Introduction to DevOps: A Simplified Guide](https://ansumannn.hashnode.dev/introduction-to-devops-a-simplified-guide)
 - [What is DevOps &amp; Why is it Important for SDLC?](https://ansumannn.hashnode.dev/what-is-devops-why-is-it-important-for-sdlc)
-- [Introduction to Git &amp; Github](https://ansumannn.hashnode.dev/introduction-to-git-github)
 <!-- BLOG-POST-LIST:END -->
 
