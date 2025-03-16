@@ -1,9 +1,7 @@
 name: Latest blog post workflow
 on:
- schedule: # Run workflow automatically
-   # This will make it run every hour
-   - cron: '0 0 * * *' 
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+ schedule: 
+   - cron: '0 0 * * 1' 
  workflow_dispatch: 
 jobs:
  update-readme-with-blog:
@@ -13,5 +11,4 @@ jobs:
      - uses: actions/checkout@v2
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
-         # Replace this URL with your rss feed URL/s
          feed_list: "https://ansumannn.hashnode.dev/rss.xml"
