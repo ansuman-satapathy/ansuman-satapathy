@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch: 
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Manual trigger
 
 jobs:
   update-readme-with-blog:
@@ -10,17 +10,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
       - name: Fetch and Update Blog Section
         run: |
-          curl -s https://ansumannn.hashnode.dev/rss.xml | \
-          xmllint --format - | \
-          grep -E "<title>|<link>|<media:thumbnail>" | \
-          awk 'NR%3==1{x=$0} NR%3==2{y=$0} NR%3==0{z=$0; print x, y, z}' > latest-blogs.md
-          cat latest-blogs.md > README.md
+          curl -s https://ansumannn.hashnode.dev/rss.xml > feed.xml
+          echo "<table>" > latest-blogs.md
+          cat feed.xml | xmllint --format - | grep -E "<title>|<link>|<media:thumbnail>" | \
+          awk 'NR%3==1{x=$0} NR%3==2{y=$0} NR%3==0{z=$0; print "<tr><td><a href=\"" y "\"><img src=\"" z "\" width=\"150px\"></a></td><td><strong>" x "</strong><br><a href=\"" y "\">Read More</a></td></tr>"}' >> latest-blogs.md
+          echo "</table>" >> latest-blogs.md
+
+          # Replace only the blog section in README.md
+          awk '
+            BEGIN {p=1}
+            /<!-- BLOG-POST-LIST:START -->/ {print; system("cat latest-blogs.md"); p=0}
+            /<!-- BLOG-POST-LIST:END -->/ {p=1}
+            p' README.md > temp.md && mv temp.md README.md
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated blog section"
+          git commit -m "Updated blog section with latest posts"
           git push
