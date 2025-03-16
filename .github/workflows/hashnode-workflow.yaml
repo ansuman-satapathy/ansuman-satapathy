@@ -1,20 +1,26 @@
 name: Latest blog post workflow
 on:
- schedule: # Run workflow automatically
-   # This will make it run every hour
-   - cron: '0 0 * * *' 
-  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
- workflow_dispatch: 
-jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your rss feed URL/s
-         feed_list: "https://ansumannn.hashnode.dev/rss.xml"
-        
-         
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: 
 
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch and Update Blog Section
+        run: |
+          curl -s https://ansumannn.hashnode.dev/rss.xml | \
+          xmllint --format - | \
+          grep -E "<title>|<link>|<media:thumbnail>" | \
+          awk 'NR%3==1{x=$0} NR%3==2{y=$0} NR%3==0{z=$0; print x, y, z}' > latest-blogs.md
+          cat latest-blogs.md > README.md
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated blog section"
+          git push
