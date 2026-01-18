@@ -68,11 +68,17 @@ func fetchFeed(url string) ([]Item, error) {
 		return nil, err
 	}
 
-	limit := 5
-	if len(rss.Channel.Items) < limit {
-		limit = len(rss.Channel.Items)
+	var blogPosts []Item
+	for _, item := range rss.Channel.Items {
+		if strings.Contains(item.Link, "/blog/") {
+			blogPosts = append(blogPosts, item)
+		}
+		if len(blogPosts) >= 5 {
+			break
+		}
 	}
-	return rss.Channel.Items[:limit], nil
+
+	return blogPosts, nil
 }
 
 func generateMarkdown(items []Item) string {
