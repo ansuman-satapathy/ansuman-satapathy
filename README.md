@@ -1,6 +1,6 @@
 # Ansuman Satapathy
 
-**Backend ➜ Infra/DevOps.**
+**Backend ➜ DevOps/Platform.**
 
 My commit graph is patchy because I am terribly inconsistent. Currently trying to fix that by forcing myself to document my work publicly.
 
