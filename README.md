@@ -1,8 +1,6 @@
 # Ansuman Satapathy
 
-**Backend ➜ DevOps/Platform.**
-
-My commit graph is patchy because I am terribly inconsistent. Currently trying to fix that by forcing myself to document my work publicly.
+I build and automate deployment workflows using containers, Kubernetes, Terraform, CI/CD, and cloud-native tooling. Currently exploring observability, LLMOps, and scalable AI workload deployment.
 
 [X (Twitter)](https://x.com/ansumantwts) | [LinkedIn](https://www.linkedin.com/in/ansuman-satapathy/) | [Blog](https://ansuman-satapathy.github.io/blog/)
 
